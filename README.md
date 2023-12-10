@@ -1,6 +1,6 @@
 ![header_](https://user-images.githubusercontent.com/64314222/157037595-5bec952f-d3c5-41d3-a1fb-bca50f7715e1.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Abhishek+Verma!;+I+am+a+Front-End+Developer!;I+am+always+learning+and+exploring+new+things+!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Abhishek+Verma!;+I+am+a+Full-Stack+Developer!;I+am+always+learning+and+exploring+new+things+!;)](https://git.io/typing-svg)
 
 <!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Abhishek Patel</h1> -->
 
@@ -17,7 +17,7 @@
 - 📫 How to reach me **imdarkcoder@gmail.com**
 <h2>🥇 Specialised in:</h2>
 <p>🔸 Languages - C, Java, Python, JavaScript
-<br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js
+<br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js, Next.js, Google Map API, Redux.js, Antd Design
 <br>🔸 BackEnd - Node, Express
 <br>🔸 DevOps - Docker, Git
 <br>🔸 Database - SQL, MongoDB
@@ -26,8 +26,8 @@
 <h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abhishekayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arifasdaullah" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/abhishekayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-asadullah-a1930913a" height="30" width="40" /></a>
+<a href="https://codepen.io/abhishekayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhishekayu" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/abhishekayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekayu" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishekayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekayu" height="30" width="40" /></a>
 </p>
 
