@@ -10,13 +10,32 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekayu&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekayu" /> </p> -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhishekayu&count_bg=%23151C10&title_bg=%23495F3A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<img align="right" alt="Coding" width="70" src="https://user-images.githubusercontent.com/64314222/93706374-380d5580-fb43-11ea-8a99-3a6827940e64.gif">
 
-<p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=abhishekayu.abhishekayu" alt="visitors"/>
-</p>
+
+<a href="https://komarev.com/ghpvc/?username=abhishekayu">
+  <img align="right" src="https://komarev.com/ghpvc/?username=abhishekayu&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+
 <img align="right"  style="border-radius:50%" alt="Coding" width="350" src="https://user-images.githubusercontent.com/64314222/158047473-a2941c23-d9a2-48af-8ab3-528fd856e377.gif">
+
+
+<p>
+ <a href="https://portfolio-nu-eight-76.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://www.linkedin.com/in/abhishek-ayu/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+<!--  <a href="https://instagram.com/alsiam_dev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a>  -->
+</p>
+<br />
+
 
 - 📫 How to reach me **imdarkcoder@gmail.com**
   
@@ -40,19 +59,68 @@
 <br>🔸 TypeScript
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<br/>
+
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+## Top Open Source -
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=abhishekayu&repo=3D-Saturn-Three.js-Example&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abhishekayu/3D-Saturn-Three.js-Example)
+[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=abhishekayu&repo=3D-Jupiter-Three.js-Example&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abhishekayu/3D-Jupiter-Three.js-Example)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=abhishekayu&repo=nasa-informative&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abhishekayu/nasa-informative)
+[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=abhishekayu&repo=3D-Earth-and-Moon-Three.js-Example&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abhishekayu/3D-Earth-and-Moon-Three.js-Example)
+
 <p align="left">
-<a href="https://codepen.io/abhishekayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhishekayu" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/abhishekayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekayu" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishekayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekayu" height="30" width="40" /></a>
+  <a href="https://github.com/abhishekayu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p
+<br/>
+<hr/>
+<br/>
 
-<summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekayu&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="abhishekayu" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekayu&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="abhishekayu" align = "center"/></p>
+<p align="center">
+  <a href="https://github.com/abhishekayu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekayu&theme=radical&border=7F3FBF&background=0D1117" alt="Abhishek's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhishekayu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekayu&theme=radical" alt="Abhishek's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/abhishekayu"><img alt="Abhishek's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abhishekayu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abhishekayu"><img alt="Abhishek's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhishekayu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Abhishek's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekayu&custom_title=Abhishek%Verma's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
