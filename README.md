@@ -23,13 +23,13 @@
 
 <p>
  <a href="https://portfolio-nu-eight-76.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="abhishekayu" />
  </a>
  <a href="https://www.linkedin.com/in/abhishek-ayu/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abhishekayu"/>
  </a> 
 <a href="https://codepen.io/abhishekayu" target="_blank">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="abhishekayu"/>
 </a>
 
 <a href="https://www.hackerrank.com/abhishekayu" target="_blank">
