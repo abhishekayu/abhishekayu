@@ -22,6 +22,13 @@
 <img src="https://github.com/ayu3008/Update-History/assets/154059988/b6a0a575-d95f-4238-a459-b6d20e326d34" alt="atro" align="right" width="26%">
 
 <p>
+
+<a href="https://www.buymeacoffee.com/abhishekayu"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekayu" /></a>
+
+<a href="mailto:imdarkcoder@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+</a>
+
  <a href="https://portfolio-nu-eight-76.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="abhishekayu" />
  </a>
@@ -35,16 +42,11 @@
 <a href="https://www.hackerrank.com/abhishekayu" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/>
 </a>
-
 <!--  <a href="https://instagram.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a>  -->
 </p>
-<br />
-
-
-- 📫 How to reach me **imdarkcoder@gmail.com**
-  
+<br />  
 <h2>🥇 Specialised in:</h2>
 <p> 🔸 Languages - C, Java, Python, JavaScript
 <br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js, Next.js, Redux.js, Antd Design
