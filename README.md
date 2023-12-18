@@ -118,9 +118,3 @@
 
 
 ![Abhishek's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekayu&custom_title=Abhishek%Verma's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-<h2>ℹ️ &nbsp;Github Info</h2>
-	
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekayu&theme=github_dark" alt="abhishekayu" align = "center"/></p>
