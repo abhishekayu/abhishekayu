@@ -13,7 +13,7 @@
 
 
 <a href="https://komarev.com/ghpvc/?username=abhishekayu">
-  <img align="right" src="https://komarev.com/ghpvc/?username=abhishekayu&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+ <img align="right" src="https://profile-counter.glitch.me/abhishekayu/count.svg" />
 </a>
 
 
