@@ -22,12 +22,20 @@
 <img src="https://github.com/ayu3008/Update-History/assets/154059988/b6a0a575-d95f-4238-a459-b6d20e326d34" alt="atro" align="right" width="26%">
 
 <p>
- <a href="https://portfolio-nu-eight-76.vercel.app/" target="blank">
+ <a href="https://portfolio-nu-eight-76.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/abhishek-ayu/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
+ </a> 
+<a href="https://codepen.io/abhishekayu" target="_blank">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
+</a>
+
+<a href="https://www.hackerrank.com/abhishekayu" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/>
+</a>
+
 <!--  <a href="https://instagram.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a>  -->
