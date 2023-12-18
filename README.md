@@ -1,6 +1,10 @@
 ![header_](https://user-images.githubusercontent.com/64314222/157037595-5bec952f-d3c5-41d3-a1fb-bca50f7715e1.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Abhishek+Verma!;+I+am+a+Full-Stack+Developer!;I+am+always+learning+and+exploring+new+things+!;)](https://git.io/typing-svg)
+<div align = "center">
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Abhishek+Verma!;+I+am+a+Full-Stack+Developer!;Dutiful+to+Learning+and+Exploring+New+Technologies+!;)](https://git.io/typing-svg)
+
+</div>
 
 <!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Abhishek Patel</h1> -->
 
@@ -15,15 +19,27 @@
 <img align="right"  style="border-radius:50%" alt="Coding" width="350" src="https://user-images.githubusercontent.com/64314222/158047473-a2941c23-d9a2-48af-8ab3-528fd856e377.gif">
 
 - 📫 How to reach me **imdarkcoder@gmail.com**
+  
 <h2>🥇 Specialised in:</h2>
-<p>🔸 Languages - C, Java, Python, JavaScript
-<br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js, Next.js, Google Map API, Redux.js, Antd Design
+<p> 🔸 Languages - C, Java, Python, JavaScript
+<br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js, Next.js, Redux.js, Antd Design
 <br>🔸 BackEnd - Node, Express
 <br>🔸 DevOps - Docker, Git
 <br>🔸 Database - SQL, MongoDB
 <p>
-
 <h2>
+
+🌐 Additional Skills:
+</h2>
+<p> 🔸 Micro Frontend Architecture
+<br>🔸 Babel.js
+<br>🔸 Webpack
+<br>🔸 Deckgl, Google Map API
+<br>🔸 Responsive Web Design
+<br>🔸 REST APIs
+<br>🔸 TypeScript
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abhishekayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhishekayu" height="30" width="40" /></a>
