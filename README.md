@@ -19,9 +19,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-
-<img align="right"  style="border-radius:50%" alt="Coding" width="350" src="https://user-images.githubusercontent.com/64314222/158047473-a2941c23-d9a2-48af-8ab3-528fd856e377.gif">
-
+<img src="https://github.com/ayu3008/Update-History/assets/154059988/b6a0a575-d95f-4238-a459-b6d20e326d34" alt="atro" align="right" width="26%">
 
 <p>
  <a href="https://portfolio-nu-eight-76.vercel.app/" target="blank">
