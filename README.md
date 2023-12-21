@@ -54,10 +54,6 @@
 <br>🔸 DevOps - Docker, Git
 <br>🔸 Database - SQL, MongoDB
 <p>
-<!-- 	<img src="https://github.com/abhishekayu/abhishekayu/assets/64314222/2b646024-00e0-47a1-bd5b-4229fa3fef33"  style="opacity: 0.7" alt="atro" align="right" width="26%"> -->
-	<div style="opacity : 0.3">
-		<img src="https://github.com/abhishekayu/abhishekayu/assets/64314222/dcf42389-9cc3-4882-9f1c-096ef3e4a0e3" alt="atro"  align="right" width="20%">	
-	</div>
 <h2>
 
 🌐 Additional Skills:
