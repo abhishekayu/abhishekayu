@@ -48,11 +48,11 @@
 </p>
 <br />  
 <h2>🥇 Specialised in:</h2>
-<p> 🔸 Languages - C, Java, Python, JavaScript
-<br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js, Next.js, Redux.js, Antd Design
-<br>🔸 BackEnd - Node, Express
+<p> 🔸 Languages - Python, JavaScript, TypeScript
+<br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js, Next.js, Redux.js, Antd Design, Tailwind CSS, Shadcn, Tanstack Query etc. 
+<br>🔸 BackEnd - Node, Express, Python.
 <br>🔸 DevOps - Docker, Git
-<br>🔸 Database - SQL, MongoDB
+<br>🔸 Database - PostgreSQL, MongoDB, SQL-Lite
 <p>
 <h2>
 
@@ -64,7 +64,7 @@
 <br>🔸 Deckgl, Google Map API
 <br>🔸 Responsive Web Design
 <br>🔸 REST APIs
-<br>🔸 TypeScript
+<br>🔸 Etc
 </p>
 <br/>
 
