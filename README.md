@@ -11,12 +11,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekayu&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekayu" /> </p> -->
 
 
-<a href="https://komarev.com/ghpvc/?username=abhishekayu">
- <img align="right" src="https://profile-counter.glitch.me/abhishekayu/count.svg" />
-</a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <img src="https://github.com/ayu3008/Update-History/assets/154059988/b6a0a575-d95f-4238-a459-b6d20e326d34" alt="atro" align="right" width="26%">
 
