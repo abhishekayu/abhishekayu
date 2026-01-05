@@ -1,124 +1,126 @@
-![header_](https://user-images.githubusercontent.com/64314222/157037595-5bec952f-d3c5-41d3-a1fb-bca50f7715e1.png)
+# 👋 Hi, I'm Abhishek Verma
 
-<div align = "center">
-	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Abhishek+Verma!;+I+am+a+Full-Stack+Developer!;,Devoted+to+Learning+and+Exploring+New+Technologies+!;)](https://git.io/typing-svg)
+Senior Full Stack Engineer with 4+ years of experience building scalable web platforms,
+AI-powered products, and data-heavy dashboards used in real production environments.
 
-</div>
+I specialize in designing frontend architectures, building backend APIs,
+and integrating LLM-based AI features with a strong focus on performance,
+maintainability, and real-world impact.
 
-<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Abhishek Patel</h1> -->
+---
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekayu&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekayu" /> </p> -->
+## 🧠 What I Do
 
+- Build scalable frontend systems using **React, Next.js, TanStack Query**
+- Design clean, performant UI architectures with **Tailwind & Shadcn**
+- Develop backend APIs using **Node.js, Express, and Python**, FastAPI
+- Integrate **LLMs, agentic AI, and intelligent workflows** for document analysis, conversational systems, and task automation
+- Optimize performance, data flow, and system reliability
+- Own features end-to-end from architecture to production
 
+---
 
+## 🧩 Core Expertise
 
+### Frontend Architecture
+- React, Next.js (App Router & Pages)
+- State management and server caching
+- Component-driven architecture
+- Performance optimization & memoization
+- Responsive, production-grade UI systems
 
-<img src="https://github.com/ayu3008/Update-History/assets/154059988/b6a0a575-d95f-4238-a459-b6d20e326d34" alt="atro" align="right" width="26%">
+### Backend & APIs
+- Node.js, Express, Python, FastAPI
+- REST APIs & authentication flows
+- Secure API gateways and service integration
+- Data validation and error handling
 
-<p>
+### AI & LLMs
+- LLM integration for chat, summarization, and scoring
+- Prompt engineering for structured outputs
+- Document parsing and AI-driven analysis
+- Streaming responses and async workflows
+- Production-focused AI feature design
 
-<a href="https://www.buymeacoffee.com/abhishekayu"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekayu" /></a>
+### Data, Maps & Visualization
+- PostgreSQL, MongoDB, SQLite
+- Deck.gl, Google Maps APIs
+- Real-time dashboards and analytics
+- Large dataset rendering and optimization
 
-<a href="mailto:imdarkcoder@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-</a>
+### DevOps & Delivery
+- Dockerized applications
+- CI/CD pipelines
+- Git-based workflows
+- Production deployments and monitoring
 
- <a href="https://portfolio-nu-eight-76.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="abhishekayu" />
- </a>
- <a href="https://www.linkedin.com/in/abhishek-ayu/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abhishekayu"/>
- </a> 
-<a href="https://codepen.io/abhishekayu" target="_blank">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="abhishekayu"/>
-</a>
+---
 
-<a href="https://www.hackerrank.com/abhishekayu" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/>
-</a>
-<!--  <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a>  -->
-</p>
-<br />  
-<h2>🥇 Specialised in:</h2>
-<p> 🔸 Languages - Python, JavaScript, TypeScript
-<br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js, Next.js, Redux.js, Antd Design, Tailwind CSS, Shadcn, Tanstack Query etc. 
-<br>🔸 BackEnd - Node, Express, Python.
-<br>🔸 DevOps - Docker, Git
-<br>🔸 Database - PostgreSQL, MongoDB, SQL-Lite
-<p>
-<h2>
+## 🚀 Selected Open Source Projects
 
-🌐 Additional Skills:
-</h2>
-<p> 🔸 Micro Frontend Architecture
-<br>🔸 Babel.js
-<br>🔸 Webpack
-<br>🔸 Deckgl, Google Map API
-<br>🔸 Responsive Web Design
-<br>🔸 REST APIs
-<br>🔸 Etc
-</p>
-<br/>
+### 🔹 npm-profiler
+Production-ready NPM package for analyzing dependency size, impact,
+and optimization insights in JavaScript projects.
 
-## Use To Code
+### 🔹 webSecure-storage
+Secure client-side storage utility with encryption and session safety,
+designed for real-world web applications.
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🔹 API Health Monitor
+Dashboard to track API uptime, latency, failures, and health status
+with clean UI and structured error reporting.
 
-<br/>
+👉 View all repositories:  
+https://github.com/abhishekayu?tab=repositories
 
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=abhishekayu&repo=npm-profiler&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abhishekayu/3D-Saturn-Three.js-Example)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=abhishekayu&repo=webSecure-storage&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abhishekayu/3D-Jupiter-Three.js-Example)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=abhishekayu&repo=nasa-informative&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abhishekayu/nasa-informative)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=abhishekayu&repo=API-Health-Moniter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abhishekayu/3D-Earth-and-Moon-Three.js-Example)
+---
 
-<p align="left">
-  <a href="https://github.com/abhishekayu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+## 🧪 Production Work Highlights
 
-<br/>
-<hr/>
-<br/>
+- Designed and owned frontend architecture for enterprise dashboards
+- Integrated LLM-powered features into production systems
+- Built interactive data-heavy UIs with maps and charts
+- Improved performance and scalability of existing platforms
+- Mentored developers and reviewed architectural decisions
+- Shipped **LLM + agentic AI workflows** for document intelligence and automation
+- Built **RAG-based document chat** with retrieval tuning and grounded outputs
 
-<p align="center">
-  <a href="https://github.com/abhishekayu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekayu&theme=radical&border=7F3FBF&background=0D1117" alt="Abhishek's GitHub streak"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/abhishekayu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekayu&theme=radical" alt="Abhishek's GitHub Contribution"/>
-  </a>
-</p>
+## 🛠️ Tech Stack Snapshot
 
-<a> 
-    <a href="https://github.com/abhishekayu"><img alt="Abhishek's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abhishekayu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/abhishekayu"><img alt="Abhishek's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhishekayu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+**Languages:**  
+JavaScript, TypeScript, Python
 
+**Frontend:**  
+React, Next.js, TanStack Query, Tailwind CSS, Shadcn, Ant Design
 
-![Abhishek's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekayu&custom_title=Abhishek%Verma's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+**Backend:**  
+Node.js, Express, Python, FastAPI
+
+**AI / LLM:**  
+Agentic workflows, Tool calling, RAG (embeddings + retrieval), Prompt engineering, Structured outputs, Evals/monitoring
+
+**Databases:**  
+PostgreSQL, MongoDB, SQLite
+
+**DevOps:**  
+Docker, Git, CI/CD
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://portfolio-nu-eight-76.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/abhishek-ayu/
+- GitHub: https://github.com/abhishekayu
+- Email: imdarkcoder@gmail.com
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=abhishekayu&show_icons=true&count_private=true&theme=react&bg_color=0D1117)
+![Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhishekayu&layout=compact&theme=react&bg_color=0D1117)
+
+---
